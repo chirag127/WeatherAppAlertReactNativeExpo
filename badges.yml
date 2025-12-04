@@ -1,0 +1,54 @@
+# Badges Configuration
+
+# Reference for badges used in README.md
+# Username: chirag127
+# Repository: AuraWeather-RealTime-Forecasting-Mobile-App
+# Base URL: https://github.com/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App
+
+# GitHub Actions Build Status
+# Documentation: https://docs.shields.io/endpoint/github/github-actions-status
+# Example: https://img.shields.io/github/actions/workflow/status/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App/ci.yml?style=flat-square&logo=githubactions
+# Markdown Code:
+# [![Build Status](https://img.shields.io/github/actions/workflow/status/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App/ci.yml?style=flat-square&logo=githubactions)](https://github.com/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App/actions/workflows/ci.yml)
+
+# Code Coverage (Requires Codecov setup)
+# Documentation: https://docs.shields.io/endpoint/codecov/codecov
+# Example: https://img.shields.io/codecov/c/github/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App?style=flat-square&logo=codecov
+# Markdown Code:
+# [![Code Coverage](https://img.shields.io/codecov/c/github/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App?style=flat-square&logo=codecov)](https://codecov.io/gh/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App)
+
+# Tech Stack (Language)
+# Documentation: https://docs.shields.io/endpoint/languages/javascript
+# Example: https://img.shields.io/badge/language-JavaScript-informational?style=flat-square&logo=javascript
+# Markdown Code:
+# [![Language](https://img.shields.io/badge/language-JavaScript-informational?style=flat-square&logo=javascript)](https://github.com/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App)
+
+# Tech Stack (Framework - React Native)
+# Documentation: https://docs.shields.io/endpoint/frameworks/react-native
+# Example: https://img.shields.io/badge/framework-React%20Native-blue?style=flat-square&logo=react
+# Markdown Code:
+# [![Framework](https://img.shields.io/badge/framework-React%20Native-blue?style=flat-square&logo=react)](https://reactnative.dev/)
+
+# Tech Stack (Framework - Expo)
+# Documentation: https://docs.shields.io/endpoint/frameworks/expo
+# Example: https://img.shields.io/badge/framework-Expo-informational?style=flat-square&logo=expo
+# Markdown Code:
+# [![Framework](https://img.shields.io/badge/framework-Expo-informational?style=flat-square&logo=expo)](https://expo.dev/)
+
+# Lint/Format (Biome)
+# Note: Biome badges are not directly supported by Shields.io without a custom endpoint. Using a generic 'linting' badge or a placeholder.
+# Example Placeholder: https://img.shields.io/badge/linting-biome-red?style=flat-square&logo=biome
+# Markdown Code:
+# [![Linting](https://img.shields.io/badge/linting-biome-red?style=flat-square&logo=biome)](https://biomejs.dev/)
+
+# License (CC BY-NC 4.0)
+# Documentation: https://docs.shields.io/endpoint/license/cc-by-nc-4.0
+# Example: https://img.shields.io/github/license/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App?style=flat-square&logo=CreativeCommons
+# Markdown Code:
+# [![License](https://img.shields.io/github/license/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App?style=flat-square&logo=CreativeCommons)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+# GitHub Stars
+# Documentation: https://docs.shields.io/endpoint/github/stars
+# Example: https://img.shields.io/github/stars/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App?style=flat-square&logo=github
+# Markdown Code:
+# [![GitHub Stars](https://img.shields.io/github/stars/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App?style=flat-square&logo=github)](https://github.com/chirag127/AuraWeather-RealTime-Forecasting-Mobile-App/stargazers)
